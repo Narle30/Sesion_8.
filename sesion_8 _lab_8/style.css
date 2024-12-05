@@ -1,0 +1,60 @@
+h1{
+
+    color: rgb(13, 185, 174);
+    background-color: yellowgreen;
+
+}
+
+p{
+
+    color:purple;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+
+.Titulo{
+    color: rgb(126, 219, 20);
+    font-size: small;
+    font-family: 'Courier New', Courier, monospace;
+
+
+}
+
+
+.Parrafo{
+
+color: blue;
+font-size: small;
+font-family: 'Courier New', Courier, monospace;
+}
+
+
+nav{
+
+background-color: rgba(20, 185, 227, 0.79);
+
+}
+
+nav ul { 
+    list-style: none;
+     display: flex; 
+     justify-content: center;
+     padding: 10px 0; 
+    }
+
+nav ul li { 
+    margin: 0 15px; 
+}
+
+
+nav ul li a { 
+    color: rgb(0, 0, 0);
+     text-decoration: none;
+       padding: 10px 20px; 
+        display: block; 
+}
+nav ul li a:hover { 
+    background-color: #555555a8; 
+    border-radius: 10px; 
+}
